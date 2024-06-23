@@ -1,13 +1,11 @@
 # AugmentedReality-An-ImmersaView
 AugmentedReality-An-ImmersaView is an innovative augmented reality application developed using C# and Unity. This project aims to create an immersive and interactive experience, bringing digital elements into the real world through the power of augmented reality technology.
-Sure! Here's a description for your AR project that uses C# and Unity:
 
----
 
-## Project Name: SpectraAR
+## Project Name: AugmentedReality-An-ImmersaView
 
 ### Description
-**SpectraAR** is an innovative augmented reality application developed using C# and Unity. This project aims to create an immersive and interactive experience, bringing digital elements into the real world through the power of augmented reality technology.
+**AugmentedReality-An-ImmersaView** is an innovative augmented reality application developed using C# and Unity. This project aims to create an immersive and interactive experience, bringing digital elements into the real world through the power of augmented reality technology.
 
 ### Features
 - **Seamless Integration**: Utilize the capabilities of Unity to integrate 3D models, animations, and interactive elements into the user's real-world environment.
