@@ -30,4 +30,13 @@ AugmentedReality-An-ImmersaView is an innovative augmented reality application d
 2. **Open in Unity**: Launch Unity and open the cloned project.
 3. **Build and Run**: Select your target platform and build the application to your device.
 
+![Screenshot_2024-07-27-20-40-57-31_d2ec5a85df85c929142eb45049a6860e](https://github.com/user-attachments/assets/46673df8-528e-4b56-bd65-2bef8502be70)
+AR Lion
+
+
+
+
+![Screenshot_2024-07-27-20-41-52-44_6f548c0b904e77ef5511ce213e1e8851](https://github.com/user-attachments/assets/28ac2188-987a-475d-b2b8-8edf3815755f)
+AR Dragon
+
 
